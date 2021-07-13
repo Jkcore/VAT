@@ -7,5 +7,5 @@
   - Scatter plot of a given vaccine and a given side effect (to show positive, negative, or neutral correlation) / trendline for that scatterplot.
   -  Percentage change year over year 
   -  Linear regression (simple and multiple), polynomial regression.
-  -  
+  
   ### I'm sure this will grow as I figure out what the fuck to do with all the data. 
